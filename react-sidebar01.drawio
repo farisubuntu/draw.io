@@ -1,11 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.0.16">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="5600.5" dy="2120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="8937" dy="3541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="dashboard" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=40;verticalAlign=bottom;labelPosition=left;verticalLabelPosition=top;align=right;labelBackgroundColor=#0000FF;" parent="1" vertex="1">
-          <mxGeometry x="-730" y="70" width="1080" height="772" as="geometry" />
+        <mxCell id="2" value="dashboard" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=40;verticalAlign=bottom;labelPosition=left;verticalLabelPosition=top;align=right;labelBackgroundColor=#0000FF;arcSize=2;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+          <mxGeometry x="-5340" y="-2410" width="1080" height="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="3XmHLotrqhF2heNYxBGG-55" value="&lt;p&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot; face=&quot;Courier New&quot;&gt;Layout&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#007FFF;align=left;verticalAlign=top;textDirection=ltr;labelBorderColor=none;spacingLeft=20;fontSize=46;" vertex="1" parent="1">
+          <mxGeometry x="-5280" y="-2380" width="960" height="1000" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
